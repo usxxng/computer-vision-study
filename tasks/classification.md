@@ -8,3 +8,5 @@
 
 Example) Very Simple FCN Structure
 ![image2](./imgs/img_2.png)
+
+모든 Pixel을 서로 다른 가중치로 Weighted sum 해주는 방식
