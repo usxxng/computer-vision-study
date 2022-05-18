@@ -1,5 +1,5 @@
 # computer-vision-study
-Study and Research of Computer Vision tasks
+## Study and Research of Computer Vision tasks
 
 Task List
 - <a href="./tasks/segmentation.md">Image Segmentation</a>
